@@ -35,10 +35,6 @@
 public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello, World");
-    System.out.println("Hello, World");
-    System.out.println("Hello, World");
-    System.out.println("Hello, World");
-    System.out.println("Hello, World - This is addition of code");
-    System.out.println("Hello, World - This is webhooks second  addition of code");
+    System.out.println("Hello, World"); 
   }
 }
