@@ -37,5 +37,7 @@ public class HelloWorld {
     System.out.println("Hello, World");
     System.out.println("Hello, World"); 
     System.out.println("Hello, World");
+    System.out.println("Hello, World Line 1");
+    System.out.println("Hello, World Line 2");
   }
 }
