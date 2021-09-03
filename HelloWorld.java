@@ -43,5 +43,6 @@ public class HelloWorld {
     System.out.println("Hello, World Line 4");
     System.out.println("Hello, World Line 5");
     System.out.println("Hello, World Line 6");
+    System.out.println("Polling SCM - WIll trigger after 1 min");
   }
 }
